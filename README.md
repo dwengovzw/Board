@@ -7,4 +7,5 @@ This repository contains all documents related to the Board of Directors (het Be
   - [7 March 2022](./Reports/20220307-General-Assembly.md)
 - Official documents
   - [Charity recognition for tax-friendly donations](./Official/GoedDoel-Erkenning.pdf)
+  - [Child protection policy](./Official/Child-Protection-Policy.pdf)
 
