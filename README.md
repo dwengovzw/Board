@@ -9,7 +9,7 @@ This repository contains all documents related to the Board of Directors (het Be
   - [List of Board Members](./Official/Board-Members.md)
   - [Charity recognition for tax-friendly donations](./Official/GoedDoel-Erkenning.pdf)
   - [Child protection policy](./Official/Child-Protection-Policy.pdf)
-- Financial statements: [2021](./Financial/2021.pdf), [2020](./Financial/2020.pdf)
+- Financial statements: [2021](./Financial/2021.pdf), [2020](./Financial/2020.pdf), [2019](./Financial/2019.pdf), [2018](./Financial/2018.pdf), [2017](./Financial/2017.pdf), [2016](./Financial/2016.pdf), [2015](./Financial/2015.pdf), [2014](./Financial/2014.pdf), [2013](./Financial/2013.pdf), [2012](./Financial/2012.pdf), [2011](./Financial/2011.pdf), [2010](./Financial/2010.pdf), [2009](./Financial/2009.pdf)
 - Standard text
   - Dwengo in 5 sentences
   - Dwengo vision / mission statement
