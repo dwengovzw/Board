@@ -71,7 +71,7 @@ Michaël heeft nog wat suggesties om naast de leerdoelen ook de STEM-competentie
 Michaël is daarnaast ook op zoek naar materiaal voor de B-stroom in het secundair onderwijs. Daar is nu niet zo veel materiaal voor beschikbaar op de markt. Michaël ziet hier kansen in voor Dwengo VZW.
 Marie-Paule en Natacha hebben de sociale robot recent nog ingeleid op twee secundaire scholen met arbeidsmarktfinaliteit. En de leerkrachten waren daar super enthousiast over!
 
-
+Marie-Paule pleit ervoor om vanuit Dwengo ook op de verschillende lerarenopleidingen te werken (Bachelor Leerkrachten). Francis haalt een project aan met de HOGENT en een resonantiegroep waarin ook Michaël zetelt.
 
 
 
