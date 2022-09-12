@@ -73,20 +73,21 @@ Marie-Paule en Natacha hebben de sociale robot recent nog ingeleid op twee secun
 
 Marie-Paule pleit ervoor om vanuit Dwengo ook op de verschillende lerarenopleidingen te werken (Bachelor Leerkrachten). Francis haalt een project aan met de HOGENT en een resonantiegroep waarin ook Michaël zetelt.
 
-Terloops merkt Jeroen ook op dat hij op twee dode links stoot bij bestellen van het WeGoSTEM-pakket in de bibliotheek van [Leuven en Kortrijk](https://dwengo.org/learning-path.html?id=630c864300a14515d18904f6&te=true#WaarOntlenen-v1;nl;3).
-
-
-
-
+Terloops merkt Jeroen ook op dat hij op twee dode links stoot bij bestellen van het WeGoSTEM-pakket in de [bibliotheken van Leuven en Kortrijk](https://dwengo.org/learning-path.html?id=630c864300a14515d18904f6&te=true#WaarOntlenen-v1;nl;3). Nele neemt dat verder met hen op.
 
 
 
 ## Varia
 
+- Michaël herhaalt zijn aandachtspunt voor de B-stroom. Augustus/september is een goede periode om leerkrachten te betrekken i.f.v. eindtermen die ze moeten realiseren. Natacha verduidelijkt dat de PDF-handeleiding van alle projecten de nummers van de leerplandoelen bevat. Tom laat weten dat we die classificatie ook als meta-data kunnen toevoeegen aan onze leerpaden. Een zoekfunctie daarvoor zou dan een eenvoudige uitbreiding zijn. Al blijkt het toch allemaal niet zo simpel te zijn omdat de classificatie van eindtermen niet altijd even eenduidig is.
+- Mieke laat weten dat elke Waalse provincie een Bilbio-Bus heeft en dat ze graag wil helpen om het uit te breiden naar haar provincie, als het in Luxembourg al zo goed werkt. 
+- Tom haalt nog even aan dat we nog een paar Franse termen hebben die vertaald kunnen worden via de bestanden op GitHub. Een vertaler zoeken die GitHub kan gebruiken, is wellicht wel een pluspunt
+
+
 
 ## Volgende vergadering
 
-De volgende algemene vergadering zal doorgaan op **XXX 2023 om 20 uur**. 
+De volgende algemene vergadering zal doorgaan op **6 maart 2023 om 20 uur**. 
 
 
 
