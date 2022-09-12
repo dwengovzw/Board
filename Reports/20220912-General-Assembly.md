@@ -15,10 +15,23 @@
 - Tom Neutens
 - Wim Heirman, bestuurder
 
+### Verontschuldigd
 
-### Volgende vergadering
 
-De volgende algemene vergadering zal doorgaan op **12 september 2022 om 20 uur**. 
+## Sociale Robot
+
+## Evolutie van de website
+
+## Onderzoeksresultaten Tom
+
+## Aanpak WeGoSTEM 2022-2023
+
+## Varia
+
+
+## Volgende vergadering
+
+De volgende algemene vergadering zal doorgaan op **XXX 2023 om 20 uur**. 
 
 
 
