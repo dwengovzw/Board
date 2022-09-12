@@ -6,7 +6,7 @@
 
 - Francis wyffels, bestuurder
 - Jeroen Bourgonjon
-- Marie-Paule Buysse
+- Marie-Paule Buyse
 - Michaël Verbeeck
 - Mieke De Ketelaere
 - Natacha Gesquière, bestuurder
